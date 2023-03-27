@@ -1,0 +1,81 @@
+body{
+  overflow: hidden;
+}
+
+.app{
+  height: max-content;
+  margin: auto;
+  width: 35%;
+  border: 3px solid #1863dc;
+  background-color:#1863dc;
+  margin-top: 5px;
+  position: relative;
+
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+label{
+  font-size: 20px;
+  color: white;
+
+
+}
+
+button{
+  padding: 10px 10px;
+  background-color: #ffd700;
+  border: 1px solid #ffd700;;
+  color: #0a49b0;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-left: 30%;
+  font-weight: 600;
+
+}
+
+
+.inputfields{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+input{
+  width: 100%;
+  padding: 10px 10px;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+select {
+  font-size: 1rem;
+  padding: 0.5rem;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #333;
+  transition: all 0.3s ease-in-out;
+}
+
+select:hover,
+select:focus {
+  border-color: #aaa;
+  box-shadow: 0 0 5px #aaa;
+}
+
+select option {
+  background-color: #fff;
+  color: #333;
+}
+
+select option:hover,
+select option:focus {
+  background-color: #eee;
+  color: #222;
+}
+

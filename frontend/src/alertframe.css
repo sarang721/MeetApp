@@ -1,0 +1,17 @@
+.message{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.errorbox{
+    position: absolute;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: max-content;
+    padding:1px 30px;
+
+}
+
