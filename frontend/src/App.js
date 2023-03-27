@@ -29,10 +29,8 @@ function App() {
         attendees: attendees,
       });
       setMessage(response.data);
-      if(response.status===400)
-      setcolor("red");
-      else
-      setcolor("green");
+      if (response.status === 400) setcolor("red");
+      else setcolor("green");
     } catch (error) {
       setMessage(error.response.data);
       setcolor("red");
@@ -40,7 +38,6 @@ function App() {
     setTimeout(() => {
       setMessage("");
     }, 2000);
-    
   };
 
   return (
