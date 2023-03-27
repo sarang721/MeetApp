@@ -27,6 +27,8 @@ The system checks for the availability of other people during the scheduled time
 
 <img width="824" alt="image" src="https://user-images.githubusercontent.com/63876450/227867866-a4624ef5-926e-49cd-a99b-0e70a733f23c.png">
 <img width="827" alt="image" src="https://user-images.githubusercontent.com/63876450/227867599-16118b5b-e95e-4908-8b05-3118e3813901.png">
+<img width="828" alt="image" src="https://user-images.githubusercontent.com/63876450/227891727-dd62bbd5-7678-4e5e-bf4c-830f946a2996.png">
+
 
 
 ## API Reference
